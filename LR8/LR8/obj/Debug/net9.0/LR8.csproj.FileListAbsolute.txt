@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\c#\LR8\LR8\bin\Debug\net9.0\LR8.exe
+C:\Users\ASUS\Documents\c#\LR8\LR8\bin\Debug\net9.0\LR8.deps.json
+C:\Users\ASUS\Documents\c#\LR8\LR8\bin\Debug\net9.0\LR8.runtimeconfig.json
+C:\Users\ASUS\Documents\c#\LR8\LR8\bin\Debug\net9.0\LR8.dll
+C:\Users\ASUS\Documents\c#\LR8\LR8\bin\Debug\net9.0\LR8.pdb
+C:\Users\ASUS\Documents\c#\LR8\LR8\obj\Debug\net9.0\LR8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\c#\LR8\LR8\obj\Debug\net9.0\LR8.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\c#\LR8\LR8\obj\Debug\net9.0\LR8.AssemblyInfo.cs
+C:\Users\ASUS\Documents\c#\LR8\LR8\obj\Debug\net9.0\LR8.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\c#\LR8\LR8\obj\Debug\net9.0\LR8.sourcelink.json
+C:\Users\ASUS\Documents\c#\LR8\LR8\obj\Debug\net9.0\LR8.dll
+C:\Users\ASUS\Documents\c#\LR8\LR8\obj\Debug\net9.0\refint\LR8.dll
+C:\Users\ASUS\Documents\c#\LR8\LR8\obj\Debug\net9.0\LR8.pdb
+C:\Users\ASUS\Documents\c#\LR8\LR8\obj\Debug\net9.0\LR8.genruntimeconfig.cache
+C:\Users\ASUS\Documents\c#\LR8\LR8\obj\Debug\net9.0\ref\LR8.dll
